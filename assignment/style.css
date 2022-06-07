@@ -9,3 +9,8 @@
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+
+
+body {
+    margin: 5% 20% 5% 10%;
+}
